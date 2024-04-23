@@ -1,0 +1,157 @@
+.slide,.show{
+    padding: 5px;
+    text-align: center;
+    background-color: cadetblue;
+    border: 2px solid black;
+
+}
+.show{
+    padding: 40px;
+    display: none;
+    
+}
+
+#flip , #panel{
+    padding: 5px;
+    text-align: center;
+    background-color: cornflowerblue;
+    border: 2px solid black;
+
+}
+.butdiv{
+    display: flex;
+    justify-content: center;
+}
+
+.butt1{
+    height: 50px;
+    width: 100px;
+}
+
+.butt2{
+    height: 50px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+#panel{
+    padding: 30px;
+    display: none;
+}
+#hide{
+    color: blue;
+}
+
+#p1{
+    color: rebeccapurple;
+}
+.mainbox{
+    display:flex;
+    justify-content: center;
+}
+#button{
+    height: 50px;
+    width: 100px;
+    margin-left: 685px;
+}
+
+#button2{
+    height: 50px;
+    width: 100px;
+    margin-left: 685px;
+}
+#button3{
+    height: 50px;
+    width: 100px;
+    margin-left: 685px;
+}
+#button4{
+    height: 50px;
+    width: 100px;
+    margin-left: 685px;
+}
+
+.mainbox1{
+    display:flex;
+    justify-content: center;
+}
+.d1{
+    text-align: center;
+    border: 2px solid  black;
+}
+#p1{
+    text-align: center;
+    border: 2px solid  black;
+}
+
+#div1{
+    width:80px;
+    height:80px;
+    background-color:red;
+}
+#div2{
+    width:80px;
+    height:80px;
+    background-color:green;
+}
+#div3{
+    width:80px;
+    height:80px;
+    background-color:blue;
+}
+
+#div4{
+    background:greenyellow;
+    height:100px;
+    width:100px;
+    margin-left: 600px;
+
+}
+
+#div5{
+    width:80px;
+    height:80px;
+    background-color:red;
+}
+#div6{
+    width:80px;
+    height:80px;
+    background-color:green;
+}
+#div7{
+    width:80px;
+    height:80px;
+    background-color:blue;
+}
+hr{
+    border: 1px  solid  black;
+}
+
+body{
+    border: 2px solid black;
+}
+
+.com{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 400px;
+    width: 300px;
+    margin-left: 550px;
+    border-radius: 10%;
+    background-color: blanchedalmond;
+}
+.bo1{
+    height:40px;
+    width: 70px;
+    border-radius: 20%;
+    margin-top: 20px;
+    background-color: wheat;
+}
+.v{
+    display: none;
+    color: red;
+}
+
